@@ -1,0 +1,5 @@
+requests
+crayons
+pytz
+rich
+loguru
