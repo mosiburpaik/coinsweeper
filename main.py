@@ -269,7 +269,7 @@ class ByBit:
             console = Console()
             menu_table = Table(show_header=False, box=ROUNDED, border_style="cyan", width=60)
             menu_table.add_row(Rule(style="bold yellow"))
-            menu_table.add_row("[bold red]===== MRP Tech MENU =====[/bold yellow]")
+            menu_table.add_row("[bold yellow]===== MRP Tech MENU =====[/bold yellow]")
             menu_table.add_row(Rule(style="bold yellow"))
             menu_table.add_row("[green]1. ADD query[/green]")
             menu_table.add_row("[green]2. add Proxy[/green]")
